@@ -1,5 +1,6 @@
 
-README: Fish Dataset Üzerinde Yapay Sinir Ağı (ANN) ile Sınıflandırma
+Fish Dataset Üzerinde Yapay Sinir Ağı (ANN) ile Sınıflandırma
+
 Proje Hakkında
 Bu proje, Kaggle'dan alınan Large-Scale Fish Dataset üzerinde bir Yapay Sinir Ağı (Artificial Neural Network - ANN) modeli kullanarak balık türlerini sınıflandırmayı amaçlamaktadır. Projede, veri setindeki görüntüler üzerinde bir derin öğrenme modeli eğitilmiştir. Modelin performansı eğitim ve doğrulama setlerinde takip edilmiştir.
 
